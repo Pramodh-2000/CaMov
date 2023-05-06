@@ -8,7 +8,3 @@ The CameraController.cs script defines a camera movement and rotation behavior t
 
 To use the application that I have built, you can simply run the Unity project and play the scene. The camera will rotate around the target position with the speed and distance parameters that you have specified, and will follow the movement of the game object in the scene.
 
-Please let me know if this is what you had in mind for the task, or if there are any additional features or improvements that you would like me to add.
-
-Best regards,
-Aditya Pramodh.
