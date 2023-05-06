@@ -1,7 +1,3 @@
-Summary:
-----------------------------------------------------------------------------------------------------------------
-I have completed the task that you assigned to me regarding the camera animation script in Unity. Based on my understanding of the requirements, I have written the CameraController.cs and RuntimeAnimatorControllerScript.cs scripts to achieve the desired camera movement and rotation around a target position with speed and distance parameters.
-
 CaMov:
 ----------------------------------------------------------------------------------------------------------------
 I have named the project CaMov and have built executable files for Windows, Mac, Linux, and WebGL.
